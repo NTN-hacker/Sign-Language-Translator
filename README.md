@@ -1,5 +1,6 @@
 # Sign-Language-Translator
 This is an android application which have function to translate from sign language (ASL) to alphabet language.
+# ![](https://images-na.ssl-images-amazon.com/images/I/41cPlzcvdyL._SX331_BO1,204,203,200_.jpg)
 ## Tương tác thời gian thực, nhận diện ngôn ngữ ký hiệu sau quá trình traning lần 2.
 [Video demo](https://www.youtube.com/watch?v=vE9L6QsWXP)
 ## Tổng quan
